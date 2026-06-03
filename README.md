@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @riyasoy 👩🏻‍🎓
-- 👀 I’m interested in Machine Learning, Data Science, Data visualisation 
-- 🌱 I’m currently learning SQL and Machine Learning
-- 💫 I’m looking to collaborate on projects related to Machine Learning
-- 🎐 How to reach me : Here's my email : riyasoy221@gmail.com
+# Hi, I'm Riya 👋
 
-<!---
-riyasoy/riyasoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am interested in:
+
+- AI Governance
+- Public Policy
+- Cybersecurity
+- Emerging Technologies
+- Responsible AI
+
+## Current Projects
+
+- AI Governance in Public Systems
+- AI in Cybersecurity (Upcoming)
+
+## Connect With Me
+
+LinkedIn: 
