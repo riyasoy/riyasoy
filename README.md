@@ -15,4 +15,4 @@ I am interested in:
 
 ## Connect With Me
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/riya-soy-61ab92179/
