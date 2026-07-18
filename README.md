@@ -1,25 +1,32 @@
+Hi, I'm Riya 👋
 
-# Hi, I'm Riya 👋
+Mechatronics Engineer exploring Computer Vision, Explainable AI, and AI for Intelligent Infrastructure.
 
-## I am interested in:
+Research Interests
 
-- AI Governance
-- Public Policy
-- Cybersecurity
-- Emerging Technologies
-- Responsible AI
+• Computer Vision
+• Explainable AI (XAI)
+• Intelligent Transportation Systems
+• AI Governance
+• Responsible AI
+• Edge AI
 
-## Current Projects
+Current Focus
 
-### Completed Projects
+• Explainable Road Damage Detection using YOLOv8 + Grad-CAM
+• AI Governance in Public Systems
+• AI Security Research
 
-- Research Project 1: AI Governance in Public Systems
-- Research Project 2: AI in Cybersecurity
+Currently Learning
 
-### Upcoming Projects
+• PyTorch
+• OpenCV
+• YOLO
+• SQL
+• Deep Learning
 
-- Research Project 3 (Planning Phase)
+Goals
 
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/riya-soy-61ab92179/
+• Build research-oriented AI projects
+• Publish high-quality technical portfolios
+• Pursue graduate research in Japan
